@@ -1,0 +1,56 @@
+True or False in java
+
+1.Computers understand high level languages like Java, C.
+2.An Algorithm is a set of instructions to accomplish a task.
+3.Computer is smart enough to ignore incorrect syntax.
+4.Java was first released in 1992.
+5.Java was named over a person who made good coffee.
+6.ByteCode is platform independent.
+7.JDK is a part of JRE.
+8.It’s optional to declare main method as public.
+9..class file contains machine code.
+10.println adds a new line at the end of the line.
+
+
+
+1.In Java, a variable's name can start with a number.
+2.char in Java can store a single character.
+3.Class names in Java typically start with a lowercase letter.
+4.100L is a valid long literal in Java.
+5.\d is an escape sequence in Java for a digit character.
+6.Scanner class is used for reading console input.
+7.In Java, an int can be automatically converted to a byte.(false)
+8.Java variable names are case-sensitive.
+9.Scanner class can be used to read both primitive data types and
+strings.
+10.Explicit casting is required to convert a double to an int.
+
+
+
+1.In Java, && and || operators perform short-circuit evaluation.
+2.In an if-else statement, the else block executes only when the if
+condition is false.
+3.Java allows an if statement without the else part.
+4.The ^ operator in Java is used for exponentiation.
+5.Unary minus operator can be used to negate the value of a
+variable in Java.
+6.a += b is equivalent to a = a + b in Java.
+7.In Java, the binary number system uses base 10.
+8.The number 1010 in binary is equivalent to 10 in decimal.
+9.& and | are logical operators in Java.
+10.In Java, a >> 2 shifts the binary bits of a to the left by 2 positions.
+
+
+1. A 'while' loop in Java continues to execute as long as its condition is
+true.
+2. The body of a 'while' loop will execute at least once, regardless of
+the condition.
+3. A 'while' loop cannot be used for iterating over an array.
+4. Infinite loops are not possible with 'while' loops in Java.
+5. A method in Java can return more than one value at a time.
+6. It's mandatory for every Java method to have a return type.
+7. The size of an array in Java can be modified after it is created.
+8. Arrays in Java can contain elements of different data types.
+9. An array is a reference type in Java.
+10.Java arrays are zero-indexed, meaning the first element has an index
+of 0. 
