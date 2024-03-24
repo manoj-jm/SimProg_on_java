@@ -23,7 +23,7 @@ public class NumOfOccur {
   public static int max(int[] arr) {
 
     if(arr==null || arr.length ==0){
-      retur  -1;
+      return  -1;
     }
     int let_max = arr[0];
     for (int i : arr) {
@@ -37,7 +37,7 @@ public class NumOfOccur {
   // min
   public static int min(int[] arr) {
     if(arr==null || arr.length ==0){
-      retur  -1;
+      return  -1;
     }
     int let_min = arr[0];
     for (int i : arr) {
