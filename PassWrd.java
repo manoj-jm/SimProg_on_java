@@ -7,7 +7,6 @@ public class PassWrd {
     System.out.println(
         "The criteria for a valid password. \nIt might need to be a certain length(8)\ncontain a mix of uppercase and lowercase letters \nInclude numbers or special characters.");
     String Special_Char = "!@#$%^&*()-_+=[]{}|;:,.<>?";
-    // System.out.println(pssWrd.);
     do {
       System.out.println("enter a password");
       String pssWrd = in.nextLine();
